@@ -45,6 +45,6 @@ class testApp : public ofBaseApp{
     islanddeath, islandbirth,
     bronxbirth, bronxdeath;
  
-    
+    float tx,ty,tz;
    
 };
